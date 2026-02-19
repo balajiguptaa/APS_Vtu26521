@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/balajiguptaa/APS_Vtu26521/tree/master/0094-binary-tree-inorder-traversal) |
 | [0234-palindrome-linked-list](https://github.com/balajiguptaa/APS_Vtu26521/tree/master/0234-palindrome-linked-list) |
 ## Recursion
 |  |
@@ -26,12 +27,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/balajiguptaa/APS_Vtu26521/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/balajiguptaa/APS_Vtu26521/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/balajiguptaa/APS_Vtu26521/tree/master/0101-symmetric-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/balajiguptaa/APS_Vtu26521/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/balajiguptaa/APS_Vtu26521/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/balajiguptaa/APS_Vtu26521/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/balajiguptaa/APS_Vtu26521/tree/master/0101-symmetric-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/balajiguptaa/APS_Vtu26521/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
@@ -48,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/balajiguptaa/APS_Vtu26521/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/balajiguptaa/APS_Vtu26521/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/balajiguptaa/APS_Vtu26521/tree/master/0101-symmetric-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/balajiguptaa/APS_Vtu26521/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
