@@ -27,16 +27,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/balajiguptaa/APS_Vtu26521/tree/master/0100-same-tree) |
+| [0101-symmetric-tree](https://github.com/balajiguptaa/APS_Vtu26521/tree/master/0101-symmetric-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/balajiguptaa/APS_Vtu26521/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/balajiguptaa/APS_Vtu26521/tree/master/0100-same-tree) |
+| [0101-symmetric-tree](https://github.com/balajiguptaa/APS_Vtu26521/tree/master/0101-symmetric-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/balajiguptaa/APS_Vtu26521/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/balajiguptaa/APS_Vtu26521/tree/master/0100-same-tree) |
+| [0101-symmetric-tree](https://github.com/balajiguptaa/APS_Vtu26521/tree/master/0101-symmetric-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/balajiguptaa/APS_Vtu26521/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Sorting
 |  |
@@ -46,5 +49,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/balajiguptaa/APS_Vtu26521/tree/master/0100-same-tree) |
+| [0101-symmetric-tree](https://github.com/balajiguptaa/APS_Vtu26521/tree/master/0101-symmetric-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/balajiguptaa/APS_Vtu26521/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 <!---LeetCode Topics End-->
