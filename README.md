@@ -82,4 +82,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0257-binary-tree-paths](https://github.com/balajiguptaa/APS_Vtu26521/tree/master/0257-binary-tree-paths) |
+| [1704-determine-if-string-halves-are-alike](https://github.com/balajiguptaa/APS_Vtu26521/tree/master/1704-determine-if-string-halves-are-alike) |
+## Counting
+|  |
+| ------- |
+| [1704-determine-if-string-halves-are-alike](https://github.com/balajiguptaa/APS_Vtu26521/tree/master/1704-determine-if-string-halves-are-alike) |
 <!---LeetCode Topics End-->
