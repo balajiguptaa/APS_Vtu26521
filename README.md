@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0217-contains-duplicate](https://github.com/balajiguptaa/APS_Vtu26521/tree/master/0217-contains-duplicate) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/balajiguptaa/APS_Vtu26521/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [0997-find-the-town-judge](https://github.com/balajiguptaa/APS_Vtu26521/tree/master/0997-find-the-town-judge) |
 ## Tree
 |  |
 | ------- |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0217-contains-duplicate](https://github.com/balajiguptaa/APS_Vtu26521/tree/master/0217-contains-duplicate) |
 | [0867-transpose-matrix](https://github.com/balajiguptaa/APS_Vtu26521/tree/master/0867-transpose-matrix) |
+| [0997-find-the-town-judge](https://github.com/balajiguptaa/APS_Vtu26521/tree/master/0997-find-the-town-judge) |
 ## Matrix
 |  |
 | ------- |
@@ -105,4 +107,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0867-transpose-matrix](https://github.com/balajiguptaa/APS_Vtu26521/tree/master/0867-transpose-matrix) |
+## Graph Theory
+|  |
+| ------- |
+| [0997-find-the-town-judge](https://github.com/balajiguptaa/APS_Vtu26521/tree/master/0997-find-the-town-judge) |
 <!---LeetCode Topics End-->
