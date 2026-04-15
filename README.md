@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/balajiguptaa/APS_Vtu26521/tree/master/0217-contains-duplicate) |
+| [0721-accounts-merge](https://github.com/balajiguptaa/APS_Vtu26521/tree/master/0721-accounts-merge) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/balajiguptaa/APS_Vtu26521/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0997-find-the-town-judge](https://github.com/balajiguptaa/APS_Vtu26521/tree/master/0997-find-the-town-judge) |
 ## Tree
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/balajiguptaa/APS_Vtu26521/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/balajiguptaa/APS_Vtu26521/tree/master/0257-binary-tree-paths) |
 | [0547-number-of-provinces](https://github.com/balajiguptaa/APS_Vtu26521/tree/master/0547-number-of-provinces) |
+| [0721-accounts-merge](https://github.com/balajiguptaa/APS_Vtu26521/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/balajiguptaa/APS_Vtu26521/tree/master/0733-flood-fill) |
 | [0841-keys-and-rooms](https://github.com/balajiguptaa/APS_Vtu26521/tree/master/0841-keys-and-rooms) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/balajiguptaa/APS_Vtu26521/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
@@ -72,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0210-course-schedule-ii](https://github.com/balajiguptaa/APS_Vtu26521/tree/master/0210-course-schedule-ii) |
 | [0542-01-matrix](https://github.com/balajiguptaa/APS_Vtu26521/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/balajiguptaa/APS_Vtu26521/tree/master/0547-number-of-provinces) |
+| [0721-accounts-merge](https://github.com/balajiguptaa/APS_Vtu26521/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/balajiguptaa/APS_Vtu26521/tree/master/0733-flood-fill) |
 | [0841-keys-and-rooms](https://github.com/balajiguptaa/APS_Vtu26521/tree/master/0841-keys-and-rooms) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/balajiguptaa/APS_Vtu26521/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
@@ -82,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/balajiguptaa/APS_Vtu26521/tree/master/0217-contains-duplicate) |
+| [0721-accounts-merge](https://github.com/balajiguptaa/APS_Vtu26521/tree/master/0721-accounts-merge) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/balajiguptaa/APS_Vtu26521/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Binary Tree
 |  |
@@ -105,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0257-binary-tree-paths](https://github.com/balajiguptaa/APS_Vtu26521/tree/master/0257-binary-tree-paths) |
+| [0721-accounts-merge](https://github.com/balajiguptaa/APS_Vtu26521/tree/master/0721-accounts-merge) |
 | [1704-determine-if-string-halves-are-alike](https://github.com/balajiguptaa/APS_Vtu26521/tree/master/1704-determine-if-string-halves-are-alike) |
 ## Counting
 |  |
@@ -116,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/balajiguptaa/APS_Vtu26521/tree/master/0200-number-of-islands) |
 | [0217-contains-duplicate](https://github.com/balajiguptaa/APS_Vtu26521/tree/master/0217-contains-duplicate) |
 | [0542-01-matrix](https://github.com/balajiguptaa/APS_Vtu26521/tree/master/0542-01-matrix) |
+| [0721-accounts-merge](https://github.com/balajiguptaa/APS_Vtu26521/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/balajiguptaa/APS_Vtu26521/tree/master/0733-flood-fill) |
 | [0867-transpose-matrix](https://github.com/balajiguptaa/APS_Vtu26521/tree/master/0867-transpose-matrix) |
 | [0994-rotting-oranges](https://github.com/balajiguptaa/APS_Vtu26521/tree/master/0994-rotting-oranges) |
@@ -147,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0200-number-of-islands](https://github.com/balajiguptaa/APS_Vtu26521/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/balajiguptaa/APS_Vtu26521/tree/master/0547-number-of-provinces) |
+| [0721-accounts-merge](https://github.com/balajiguptaa/APS_Vtu26521/tree/master/0721-accounts-merge) |
 ## Topological Sort
 |  |
 | ------- |
