@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/balajiguptaa/APS_Vtu26521/tree/master/0112-path-sum) |
 | [0207-course-schedule](https://github.com/balajiguptaa/APS_Vtu26521/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/balajiguptaa/APS_Vtu26521/tree/master/0210-course-schedule-ii) |
+| [0542-01-matrix](https://github.com/balajiguptaa/APS_Vtu26521/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/balajiguptaa/APS_Vtu26521/tree/master/0547-number-of-provinces) |
 | [0841-keys-and-rooms](https://github.com/balajiguptaa/APS_Vtu26521/tree/master/0841-keys-and-rooms) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/balajiguptaa/APS_Vtu26521/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
@@ -109,12 +110,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/balajiguptaa/APS_Vtu26521/tree/master/0217-contains-duplicate) |
+| [0542-01-matrix](https://github.com/balajiguptaa/APS_Vtu26521/tree/master/0542-01-matrix) |
 | [0867-transpose-matrix](https://github.com/balajiguptaa/APS_Vtu26521/tree/master/0867-transpose-matrix) |
 | [0994-rotting-oranges](https://github.com/balajiguptaa/APS_Vtu26521/tree/master/0994-rotting-oranges) |
 | [0997-find-the-town-judge](https://github.com/balajiguptaa/APS_Vtu26521/tree/master/0997-find-the-town-judge) |
 ## Matrix
 |  |
 | ------- |
+| [0542-01-matrix](https://github.com/balajiguptaa/APS_Vtu26521/tree/master/0542-01-matrix) |
 | [0867-transpose-matrix](https://github.com/balajiguptaa/APS_Vtu26521/tree/master/0867-transpose-matrix) |
 | [0994-rotting-oranges](https://github.com/balajiguptaa/APS_Vtu26521/tree/master/0994-rotting-oranges) |
 ## Simulation
@@ -141,4 +144,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/balajiguptaa/APS_Vtu26521/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/balajiguptaa/APS_Vtu26521/tree/master/0210-course-schedule-ii) |
 | [1203-sort-items-by-groups-respecting-dependencies](https://github.com/balajiguptaa/APS_Vtu26521/tree/master/1203-sort-items-by-groups-respecting-dependencies) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0542-01-matrix](https://github.com/balajiguptaa/APS_Vtu26521/tree/master/0542-01-matrix) |
 <!---LeetCode Topics End-->
