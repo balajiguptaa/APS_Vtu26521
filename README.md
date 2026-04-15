@@ -119,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0049-group-anagrams](https://github.com/balajiguptaa/APS_Vtu26521/tree/master/0049-group-anagrams) |
 | [0257-binary-tree-paths](https://github.com/balajiguptaa/APS_Vtu26521/tree/master/0257-binary-tree-paths) |
+| [0474-ones-and-zeroes](https://github.com/balajiguptaa/APS_Vtu26521/tree/master/0474-ones-and-zeroes) |
 | [0721-accounts-merge](https://github.com/balajiguptaa/APS_Vtu26521/tree/master/0721-accounts-merge) |
 | [0929-unique-email-addresses](https://github.com/balajiguptaa/APS_Vtu26521/tree/master/0929-unique-email-addresses) |
 | [1704-determine-if-string-halves-are-alike](https://github.com/balajiguptaa/APS_Vtu26521/tree/master/1704-determine-if-string-halves-are-alike) |
@@ -137,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/balajiguptaa/APS_Vtu26521/tree/master/0200-number-of-islands) |
 | [0217-contains-duplicate](https://github.com/balajiguptaa/APS_Vtu26521/tree/master/0217-contains-duplicate) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/balajiguptaa/APS_Vtu26521/tree/master/0315-count-of-smaller-numbers-after-self) |
+| [0474-ones-and-zeroes](https://github.com/balajiguptaa/APS_Vtu26521/tree/master/0474-ones-and-zeroes) |
 | [0542-01-matrix](https://github.com/balajiguptaa/APS_Vtu26521/tree/master/0542-01-matrix) |
 | [0721-accounts-merge](https://github.com/balajiguptaa/APS_Vtu26521/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/balajiguptaa/APS_Vtu26521/tree/master/0733-flood-fill) |
@@ -186,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/balajiguptaa/APS_Vtu26521/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/balajiguptaa/APS_Vtu26521/tree/master/0070-climbing-stairs) |
 | [0198-house-robber](https://github.com/balajiguptaa/APS_Vtu26521/tree/master/0198-house-robber) |
+| [0474-ones-and-zeroes](https://github.com/balajiguptaa/APS_Vtu26521/tree/master/0474-ones-and-zeroes) |
 | [0542-01-matrix](https://github.com/balajiguptaa/APS_Vtu26521/tree/master/0542-01-matrix) |
 | [0746-min-cost-climbing-stairs](https://github.com/balajiguptaa/APS_Vtu26521/tree/master/0746-min-cost-climbing-stairs) |
 ## Math
