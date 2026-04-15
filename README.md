@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0101-symmetric-tree](https://github.com/balajiguptaa/APS_Vtu26521/tree/master/0101-symmetric-tree) |
 | [0112-path-sum](https://github.com/balajiguptaa/APS_Vtu26521/tree/master/0112-path-sum) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/balajiguptaa/APS_Vtu26521/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [0994-rotting-oranges](https://github.com/balajiguptaa/APS_Vtu26521/tree/master/0994-rotting-oranges) |
 ## Sorting
 |  |
 | ------- |
@@ -98,11 +99,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0217-contains-duplicate](https://github.com/balajiguptaa/APS_Vtu26521/tree/master/0217-contains-duplicate) |
 | [0867-transpose-matrix](https://github.com/balajiguptaa/APS_Vtu26521/tree/master/0867-transpose-matrix) |
+| [0994-rotting-oranges](https://github.com/balajiguptaa/APS_Vtu26521/tree/master/0994-rotting-oranges) |
 | [0997-find-the-town-judge](https://github.com/balajiguptaa/APS_Vtu26521/tree/master/0997-find-the-town-judge) |
 ## Matrix
 |  |
 | ------- |
 | [0867-transpose-matrix](https://github.com/balajiguptaa/APS_Vtu26521/tree/master/0867-transpose-matrix) |
+| [0994-rotting-oranges](https://github.com/balajiguptaa/APS_Vtu26521/tree/master/0994-rotting-oranges) |
 ## Simulation
 |  |
 | ------- |
