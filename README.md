@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0202-happy-number](https://github.com/balajiguptaa/APS_Vtu26521/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/balajiguptaa/APS_Vtu26521/tree/master/0234-palindrome-linked-list) |
 ## Stack
 |  |
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0202-happy-number](https://github.com/balajiguptaa/APS_Vtu26521/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/balajiguptaa/APS_Vtu26521/tree/master/0217-contains-duplicate) |
 | [0721-accounts-merge](https://github.com/balajiguptaa/APS_Vtu26521/tree/master/0721-accounts-merge) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/balajiguptaa/APS_Vtu26521/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
@@ -164,4 +166,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0542-01-matrix](https://github.com/balajiguptaa/APS_Vtu26521/tree/master/0542-01-matrix) |
+## Math
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/balajiguptaa/APS_Vtu26521/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
