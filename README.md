@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/balajiguptaa/APS_Vtu26521/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/balajiguptaa/APS_Vtu26521/tree/master/0217-contains-duplicate) |
 | [0721-accounts-merge](https://github.com/balajiguptaa/APS_Vtu26521/tree/master/0721-accounts-merge) |
+| [0973-k-closest-points-to-origin](https://github.com/balajiguptaa/APS_Vtu26521/tree/master/0973-k-closest-points-to-origin) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/balajiguptaa/APS_Vtu26521/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Binary Tree
 |  |
@@ -140,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/balajiguptaa/APS_Vtu26521/tree/master/0733-flood-fill) |
 | [0867-transpose-matrix](https://github.com/balajiguptaa/APS_Vtu26521/tree/master/0867-transpose-matrix) |
 | [0929-unique-email-addresses](https://github.com/balajiguptaa/APS_Vtu26521/tree/master/0929-unique-email-addresses) |
+| [0973-k-closest-points-to-origin](https://github.com/balajiguptaa/APS_Vtu26521/tree/master/0973-k-closest-points-to-origin) |
 | [0994-rotting-oranges](https://github.com/balajiguptaa/APS_Vtu26521/tree/master/0994-rotting-oranges) |
 | [0997-find-the-town-judge](https://github.com/balajiguptaa/APS_Vtu26521/tree/master/0997-find-the-town-judge) |
 ## Matrix
@@ -184,12 +186,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/balajiguptaa/APS_Vtu26521/tree/master/0202-happy-number) |
+| [0973-k-closest-points-to-origin](https://github.com/balajiguptaa/APS_Vtu26521/tree/master/0973-k-closest-points-to-origin) |
 ## Divide and Conquer
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/balajiguptaa/APS_Vtu26521/tree/master/0169-majority-element) |
 | [0190-reverse-bits](https://github.com/balajiguptaa/APS_Vtu26521/tree/master/0190-reverse-bits) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/balajiguptaa/APS_Vtu26521/tree/master/0315-count-of-smaller-numbers-after-self) |
+| [0973-k-closest-points-to-origin](https://github.com/balajiguptaa/APS_Vtu26521/tree/master/0973-k-closest-points-to-origin) |
 | [1763-longest-nice-substring](https://github.com/balajiguptaa/APS_Vtu26521/tree/master/1763-longest-nice-substring) |
 ## Bit Manipulation
 |  |
@@ -220,4 +224,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/balajiguptaa/APS_Vtu26521/tree/master/0315-count-of-smaller-numbers-after-self) |
+## Geometry
+|  |
+| ------- |
+| [0973-k-closest-points-to-origin](https://github.com/balajiguptaa/APS_Vtu26521/tree/master/0973-k-closest-points-to-origin) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0973-k-closest-points-to-origin](https://github.com/balajiguptaa/APS_Vtu26521/tree/master/0973-k-closest-points-to-origin) |
+## Quickselect
+|  |
+| ------- |
+| [0973-k-closest-points-to-origin](https://github.com/balajiguptaa/APS_Vtu26521/tree/master/0973-k-closest-points-to-origin) |
 <!---LeetCode Topics End-->
