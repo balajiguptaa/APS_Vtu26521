@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0929-unique-email-addresses](https://github.com/balajiguptaa/APS_Vtu26521/tree/master/0929-unique-email-addresses) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/balajiguptaa/APS_Vtu26521/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0997-find-the-town-judge](https://github.com/balajiguptaa/APS_Vtu26521/tree/master/0997-find-the-town-judge) |
+| [1763-longest-nice-substring](https://github.com/balajiguptaa/APS_Vtu26521/tree/master/1763-longest-nice-substring) |
 ## Tree
 |  |
 | ------- |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0721-accounts-merge](https://github.com/balajiguptaa/APS_Vtu26521/tree/master/0721-accounts-merge) |
 | [0929-unique-email-addresses](https://github.com/balajiguptaa/APS_Vtu26521/tree/master/0929-unique-email-addresses) |
 | [1704-determine-if-string-halves-are-alike](https://github.com/balajiguptaa/APS_Vtu26521/tree/master/1704-determine-if-string-halves-are-alike) |
+| [1763-longest-nice-substring](https://github.com/balajiguptaa/APS_Vtu26521/tree/master/1763-longest-nice-substring) |
 ## Counting
 |  |
 | ------- |
@@ -186,8 +188,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/balajiguptaa/APS_Vtu26521/tree/master/0169-majority-element) |
 | [0190-reverse-bits](https://github.com/balajiguptaa/APS_Vtu26521/tree/master/0190-reverse-bits) |
+| [1763-longest-nice-substring](https://github.com/balajiguptaa/APS_Vtu26521/tree/master/1763-longest-nice-substring) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0190-reverse-bits](https://github.com/balajiguptaa/APS_Vtu26521/tree/master/0190-reverse-bits) |
+| [1763-longest-nice-substring](https://github.com/balajiguptaa/APS_Vtu26521/tree/master/1763-longest-nice-substring) |
+## Sliding Window
+|  |
+| ------- |
+| [1763-longest-nice-substring](https://github.com/balajiguptaa/APS_Vtu26521/tree/master/1763-longest-nice-substring) |
 <!---LeetCode Topics End-->
