@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/balajiguptaa/APS_Vtu26521/tree/master/0049-group-anagrams) |
 | [0202-happy-number](https://github.com/balajiguptaa/APS_Vtu26521/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/balajiguptaa/APS_Vtu26521/tree/master/0217-contains-duplicate) |
 | [0721-accounts-merge](https://github.com/balajiguptaa/APS_Vtu26521/tree/master/0721-accounts-merge) |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/balajiguptaa/APS_Vtu26521/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/balajiguptaa/APS_Vtu26521/tree/master/0217-contains-duplicate) |
 | [0721-accounts-merge](https://github.com/balajiguptaa/APS_Vtu26521/tree/master/0721-accounts-merge) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/balajiguptaa/APS_Vtu26521/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
@@ -111,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/balajiguptaa/APS_Vtu26521/tree/master/0049-group-anagrams) |
 | [0257-binary-tree-paths](https://github.com/balajiguptaa/APS_Vtu26521/tree/master/0257-binary-tree-paths) |
 | [0721-accounts-merge](https://github.com/balajiguptaa/APS_Vtu26521/tree/master/0721-accounts-merge) |
 | [0929-unique-email-addresses](https://github.com/balajiguptaa/APS_Vtu26521/tree/master/0929-unique-email-addresses) |
@@ -122,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/balajiguptaa/APS_Vtu26521/tree/master/0049-group-anagrams) |
 | [0200-number-of-islands](https://github.com/balajiguptaa/APS_Vtu26521/tree/master/0200-number-of-islands) |
 | [0217-contains-duplicate](https://github.com/balajiguptaa/APS_Vtu26521/tree/master/0217-contains-duplicate) |
 | [0542-01-matrix](https://github.com/balajiguptaa/APS_Vtu26521/tree/master/0542-01-matrix) |
