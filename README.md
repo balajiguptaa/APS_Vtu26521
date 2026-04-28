@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/balajiguptaa/APS_Vtu26521/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0202-happy-number](https://github.com/balajiguptaa/APS_Vtu26521/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/balajiguptaa/APS_Vtu26521/tree/master/0234-palindrome-linked-list) |
 ## Stack
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/balajiguptaa/APS_Vtu26521/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0049-group-anagrams](https://github.com/balajiguptaa/APS_Vtu26521/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/balajiguptaa/APS_Vtu26521/tree/master/0058-length-of-last-word) |
 | [0257-binary-tree-paths](https://github.com/balajiguptaa/APS_Vtu26521/tree/master/0257-binary-tree-paths) |
@@ -270,4 +272,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/balajiguptaa/APS_Vtu26521/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
+## String Matching
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/balajiguptaa/APS_Vtu26521/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 <!---LeetCode Topics End-->
