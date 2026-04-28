@@ -122,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/balajiguptaa/APS_Vtu26521/tree/master/0049-group-anagrams) |
+| [0058-length-of-last-word](https://github.com/balajiguptaa/APS_Vtu26521/tree/master/0058-length-of-last-word) |
 | [0257-binary-tree-paths](https://github.com/balajiguptaa/APS_Vtu26521/tree/master/0257-binary-tree-paths) |
 | [0474-ones-and-zeroes](https://github.com/balajiguptaa/APS_Vtu26521/tree/master/0474-ones-and-zeroes) |
 | [0721-accounts-merge](https://github.com/balajiguptaa/APS_Vtu26521/tree/master/0721-accounts-merge) |
